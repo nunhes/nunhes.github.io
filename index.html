@@ -1,15 +1,18 @@
 ---
 layout: default
-title: Ismael Bernardez, aka nunhes
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Ismael Bernardez, aka nunhes!</h1>
-	<p>I am a graphic designer+web developer based out of Vigo, Spain. I have always enjoyed the challenge of both graphic design and web development; learning about my profession and take experience about design and web.
--Create attractive and dynamic web pages, eye-catching design, creative branding ideas...: all with the idea of perfection in mind. </p>
--<p>
--You can explore my site at<br/>
--http://www.ambosass.com<br/>
--A detailed curriculum at<br/>
--http://ambosass.com/resume.html<br/>
--</p>
-</div><!-- /.blurb -->
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
