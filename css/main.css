@@ -7,6 +7,7 @@ body {
 nav ul, footer ul {
     padding: 20px 0;
     list-style: none;
+    text-transform: uppercase;
 }
 nav ul li {
     border-bottom: 2px solid #333;
@@ -29,6 +30,10 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+    font-weight: 300;
+}
+h2 {
+    font-size: 2.6em;
     font-weight: 300;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -70,3 +75,4 @@ ul.posts li {
   }
 
 #main, .wrapper-masthead, .footer { padding:  0 10px;}
+ul.posts li span, .meta { text-transform: uppercase; font-size: .92em }

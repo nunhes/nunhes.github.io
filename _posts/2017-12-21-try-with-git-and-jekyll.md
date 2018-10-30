@@ -1,20 +1,35 @@
 ---
 layout: post
-title: "Crear e Aloxar un sitio personal en GitHub"
-subtitle: A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.
+title: "Create a personal site and blog on GitHub"
+subtitle: ...creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.
 date: 2017-12-21
 ---
+Some interesting guides:
+ref.: [http://jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/)
 
-ref.: http://jmcglone.com/guides/github-pages/
+<h2 id="resources">Resources</h2>
+<h3>Git, GitHub, and GitHub Pages</h3>
+<ul>
+<li><a href="http://git-scm.com/doc">Git Documentation</a></li>
+<li><a href="https://try.github.io/levels/1/challenges/1">Learn Git and GitHub in 15 minutes</a></li>
+<li><a href="https://help.github.com/categories/20/articles">GitHub Pages Help</a></li>
+<li><a href="https://help.github.com/">GitHub Help</a></li>
+<li><a href="https://github.com/tiimgreen/github-cheat-sheet">GitHub Cheat Sheet</a></li>
+<li><a href="https://help.github.com/articles/github-glossary">GitHub Glossary</a></li>
+<li><a href="http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/">GitHub For Academics</a></li>
+</ul>
 
-This guide is meant to help Git and GitHub beginners get up and running with GitHub Pages and Jekyll in an afternoon. It assumes you know very little about version control, Git, and GitHub. It is helpful if you know the basics of HTML and CSS since we'll be working directly with these languages. We'll also be using a little bit of Markdown, but by no means do you need to be an expert with any of these languages. The idea is to learn by doing, so the code we'll be implementing in this tutorial is available in this guide or can be downloaded entirely at this GitHub repo. Feel free to copy and paste or type this code directly into your project's files.
+<h3>Jekyll</h3>
+<ul>
+<li><a href="https://github.com/jekyll/jekyll/wiki/Sites">Sites Using Jekyll</a></li>
+<li><a href="http://import.jekyllrb.com/docs/home/">Blog Migrations to Jekyll</a></li>
+</ul>
 
-For a little background on why I chose GitHub and GitHub Pages for my personal website (and other projects), see this note.
-
-## Other Resources You Should Know
-
-In order to make GitHub Pages accessible to a wider audience, this guide focuses on using the web interface on github.com to build your personal website, thereby generalizing and glossing over the standard tools associated with Git and GitHub. To get a lot dirtier with Git and GitHub (ie, the command line and terminal), there are several other great guides you should also know about, probably bookmark, and read after completing this one, or jump over to if that is more your speed: Anna Debenham, Thinkful, and even GitHub itself go above and beyond making the command line or local workflow of GitHub hosting and Jekyll templates accessible to a wider audience.
-
-Also, at the end of this document, there is a pretty good list of resources related to Git, GitHub/Pages, Jekyll, and Markdown that can help you dive deeper into these tools. I'll do my best to keep this list updated as I find new ones.
-
-## What is Git, GitHub, and GitHub Pages?
+<h3>Markdown</h3>
+<ul>
+	<li><a href="http://daringfireball.net/projects/markdown/">Official Markdown Spec</a></li>
+	<li><a href="http://packetlife.net/media/library/16/Markdown.pdf">Printable Markdown Cheatsheet</a></li>
+	<li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a></li>
+	<li><a href="https://help.github.com/articles/github-flavored-markdown">GitHub Flavored Markdown</a></li>
+</ul>
+<hr>
