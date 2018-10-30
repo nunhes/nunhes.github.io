@@ -7,6 +7,8 @@ date: 2017-12-21
 Some interesting guides:
 ref.: [http://jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/)
 
+[Setting up your github pages site locally with Jekyll/](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
 <h2 id="resources">Resources</h2>
 <h3>Git, GitHub, and GitHub Pages</h3>
 <ul>
