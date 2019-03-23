@@ -73,5 +73,9 @@ ul.posts li {
     margin-top: 0px;
   }
 
+.icons-social i {
+  	font-size: 2.28em;padding: 10px;
+}
+
 #main, .wrapper-masthead, .footer { padding:  0 10px;}
 ul.posts li span, .meta { text-transform: uppercase; font-size: .92em }
