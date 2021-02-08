@@ -114,5 +114,5 @@ I also have skills in other fields like branding, icon design, illustration or t
 
 ***
 ## MORE INFO
-- Personal site: [www.ambosass.com](www.ambosass.com){:target="_blank"}
-- More [www.ambosass.com/old/promo10](www.ambosass.com/old/promo10){:target="_blank"}
+- Personal site: [www.ambosass.com](http://www.ambosass.com){:target="_blank"}
+- More [www.ambosass.com/old/promo10](http://www.ambosass.com/old/promo10){:target="_blank"}
