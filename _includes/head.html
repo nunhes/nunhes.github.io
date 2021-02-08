@@ -1,22 +1,26 @@
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" width="device-width, initial-scale=1.0">
-	<meta name="description" content="{{ page.description }}">
-	<meta name="author" content="Ismael Bernardez">
-	<!-- favicon
-	<link rel="shortcut icon" href="/img/ico/favicon.png">
-	-->
-	<title>{{ page.title }} | Ismael Bernardez | Designer, Front-End Developer, Digital Publisher, Project Manager, Cooker, Music Enthusiast, Web Noodler.</title>
-	<!-- styles -->
-	<link href="/css/bootstrap.css" rel="stylesheet">
-	<link href="/css/jumbotron-narrow.css" rel="stylesheet">
-	<link href="/css/main.css" rel="stylesheet">
+<meta charset="utf-8">
+<meta name="viewport" width="device-width, initial-scale=1.0">
+<title>
+    {% if page.title %}{{ page.title }}
+        –
+    {% endif %}{{ site.name }}
+    –
+    {{ site.description }}</title>
+<meta name="description" content="{{ page.description }}">
+<meta name="author" content="Ismael Bernardez - aka {{ page.author }}">
+<!-- favicon <link rel="shortcut icon" href="/img/ico/favicon.png"> -->
+<!-- title>{{ page.title }}{{ page.description }}</!-->
+<!-- styles <link href="/css/bootstrap.css" rel="stylesheet"> <link href="/css/jumbotron-narrow.css" rel="stylesheet"> -->
+<!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans|Montserrat:400,500" rel="stylesheet">
 
-	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	<!--[if lt IE 9]>
-  <script src="../../assets/js/html5shiv.js"></script>
-  <script src="../../assets/js/respond.min.js"></script>
-	<![endif]-->
-	<!-- google analytics - i will not share this data with google -->
-	{% include analytics.html %}
-</head>
+<link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css"/>
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml"/>
+
+<!-- link href="/css/main.css" rel="stylesheet" -->
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]> <script src="../../assets/js/html5shiv.js"></script> <script src="../../assets/js/respond.min.js"></script> <![endif]-->
+<!-- google analytics - i will not share this data with google -->
+{% include analytics.html %}
