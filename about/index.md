@@ -4,7 +4,7 @@ title: About me
 ---
 
 
-Hi, I’m Ismael. I work at [ambosass.com](http://ambosass.com) in Vigo, where I'm the one-man-band.
+Hi, I’m Ismael. I work at [ambosass.com](http://ambosass.com){:target="_blank"} in Vigo, where I'm the one-man-band.
 
 I have training in drawing, painting and traditional graphic design. Since I was studying Fine Arts I became involved in different projects of image, applied design and entrepreneurship.
 

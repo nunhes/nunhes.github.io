@@ -29,3 +29,11 @@ Sempre é bo ler a documentación ::smiley::
 ## Estilo
 Minimizar o emprego de recursos de estilo.
 .ref: https://css-tricks.com/snippets/css/complete-guide-grid/
+
+###  Jekyll uses the kramdown Markdown processor
+``sudo gem install kramdown``
+https://jekyllrb.com/docs/configuration/markdown/
+https://www.markdownguide.org/tools/jekyll/
+
+## Previsualizar
+bundle exec jekyll serve --watch

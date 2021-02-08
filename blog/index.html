@@ -5,12 +5,10 @@ title: nunhes's Blog
 
 <h1>{{ page.title }}</h1>
 <div class="grid">
-
-				{% for post in site.posts %}
-								<div>
-												<span>{{ post.date | date_to_string }}</span>
-												»
-												<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-								</div>
-				{% endfor %}
+	{% for post in site.posts %}
+		<div>
+			<small>{{ post.date | date_to_string }}</small>
+			<h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+		</div>
+	{% endfor %}
 </div>
