@@ -51,15 +51,27 @@ I also have skills in other fields like branding, icon design, illustration or t
 ## PROFESSIONAL EXPERIENCE
 
 - Creative Direction / Graphic Design / Front-end Developer
-: **ambosass.com**
+: **ambosass.com** now **bitsolto.com**
 : ENTREPERNAUR / FREELANCE
 : Web developer, Art direction, Graphic design, Corpotate design, Marketing, Communication,...
 : 1997 - CURRENT
 
 - Teaching, IT Trainer, DTP Trainer, Graphic design trainer
+: **Estudios Mega**
+: Courseware Development, Trainer in Employment Workshop. Imparting of professionalism certificate in Design of applications with web 
+technologies. Scheduling of classes and practical work, training and evaluation.
+: 2023
+
+- Teaching, IT Trainer, Web developement Trainer
+: **Council of Vigo**
+: Courseware Development, Web developement, Project manager in Employment Workshop,... courses and tutorials. Imparting bootcamp in Design of applications with web 
+technologies.
+: 2029-2021
+
+- Teaching, IT Trainer, DTP Trainer, Graphic design trainer
 : **Metodo Consultants**
 : Courseware Development, Security on Internet, Web developement,... courses and tutorials.
-: 2001-2002
+: 2018-2020
 
 - Design Lead - Web Designer
 : **Econet Consultants** 
@@ -93,7 +105,7 @@ I also have skills in other fields like branding, icon design, illustration or t
 ***
 ## SKILLS
 **Graphic Design**
-: Photoshop Illustrator Premiere AfterEffects InDesign XD
+: Photoshop Illustrator Premiere AfterEffects InDesign XD Figma
 
 **Web development**
 : HTML5 CSS JS
@@ -103,7 +115,7 @@ I also have skills in other fields like branding, icon design, illustration or t
 : Wordpress+Woo-Commerce
 
 **Experienced**
-: Node.js jamstack React/Vue/...
+: Node.js jamstack React/Vue/Astro...
 
 **Soft skills**
 : Team Building
@@ -114,5 +126,5 @@ I also have skills in other fields like branding, icon design, illustration or t
 
 ***
 ## MORE INFO
-- Personal site: [www.ambosass.com](http://www.ambosass.com){:target="_blank"}
-- More [www.ambosass.com/old/promo10](http://www.ambosass.com/old/promo10){:target="_blank"}
+- Personal site: [www.bitsolto.com](http://www.bitsolto.com){:target="_blank"}
+- [CV PDF](https://nunhes.github.io/cv/docs/cv__IsmaelBernardez_2023.pdf){:target="_blank"}

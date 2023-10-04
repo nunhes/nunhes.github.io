@@ -1,13 +1,12 @@
 # nunhes.github.io
-personal
+persoal
 
-Essay
-Source code to
+Source code to personal Github page
 https://nunhes.github.io
 
 
 ## Github pages
-Estou aseguir unha practica voluntaria de autoformación. Vou a apuntar a qui as cousas que vou facendo con ligazóns a documentación oportuna.
+Estou aseguir unha practica voluntaria de autoformación. Vou a apuntar a qui as cousas que vou facendo con ligazóns á documentación oportuna.
 Estou a traballar con Git, WSL e VSCode. Entorno WSL-Windows.
 
 Sempre é bo ler a documentación ::smiley::
@@ -21,7 +20,15 @@ Sempre é bo ler a documentación ::smiley::
 
 - Instalar Jekyll e dependencias
   https://jekyllrb.com/docs/installation/windows/    ver apartado adicado a WSL
-  https://jekyllrb.com/tutorials/using-jekyll-with-bundler/     foime moi útil para rematar unha instalación con exito.
+  
+
+  - Engadir o repositorio Ruby aquí [brightbox](https://www.brightbox.com/docs/ruby/ubuntu/#adding-the-repository)
+  
+  - ``sudo apt-get install ruby2.5 ruby2.5-dev build-essential dh-autoreconf`` me deu error asi que empreguei a referencia de https://www.ruby-lang.org/en/documentation/installation/#apt &rarr; ``sudo apt-get install ruby-full``
+  
+  - e para instalar jekyll: ``sudo apt install jekyll``
+  
+- https://jekyllrb.com/tutorials/using-jekyll-with-bundler/     foime moi útil para rematar unha instalación con exito.
 
   ver https://jekyllrb.com/docs/installation/ubuntu/
 
